@@ -29,3 +29,5 @@ This code performs several tasks related to image classification using Support V
    - Displays the first test image using Matplotlib.
 
 The code essentially follows the standard pipeline for training a machine learning model: data preparation, model building, evaluation, and prediction. It focuses specifically on classifying images of cats and dogs using Support Vector Machines.
+
+`The model is saved and loaded to expedite program execution, enhancing efficiency by eliminating the need to retrain the model each time the program runs.`
